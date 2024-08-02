@@ -1,5 +1,4 @@
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-***I am a Cloud Computing Enthusiast.***
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px"/>
 
