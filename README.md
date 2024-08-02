@@ -5,7 +5,7 @@
 ### ✍️ About Me:
   - 😄 My name is Manya Kalra and I am from Chandigarh, India.
   - 👨🏻‍💻  I’m Cyber Security, Cloud Computing and DevOps enthusiast.
-  - 🗣️ Ask me about - how to stay secure on the internet.
+  - 🗣️ Ask me for suggestions on how to stay secure on the internet.
   - ⚡ Fun fact: I love networking (literally).
 
 #### 📫 How to reach me:
