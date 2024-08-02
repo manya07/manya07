@@ -5,9 +5,8 @@
 
 ### ✍️ About Me:
   - 😄 My name is Manya Kalra and I am from Chandigarh, India.
-  - 👨🏻‍💻 I’m currently working as a Digital Evangelist at StatusNeo in Gurugram, India.
-  - ☁️ I’m currently learning Cloud Computing and Virtualization Technology and DevOps.
-  - 🗣️ Talk to me about Amazon Web Services and Salesforce.
+  - 👨🏻‍💻  I’m a Cloud Computing, DevOps and Cyber Security enthusiast.
+  - 🗣️ Talk to me about Amazon Web Services and CIA.
   - ⚡ Fun fact: I love networking.
 
 #### 📫 How to reach me:
